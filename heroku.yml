@@ -47,10 +47,3 @@ services:
       - MONGO_INITDB_ROOT_USERNAME=hein
       - MONGO_INITDB_ROOT_PASSWORD=ilnesarreteplus
     restart: unless-stopped
-
-networks:
-  back-tier:
-
-volumes:
-  common:
-  db-data:

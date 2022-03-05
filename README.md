@@ -1,2 +1,0 @@
-# epicarea
-epicarea
